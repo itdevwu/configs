@@ -10,7 +10,7 @@ Here are some tools that I use frequently:
 
 ## Copyright
 
-Copyright (c) 2023 itdevwu.
+Copyright (c) 2023 [*itdevwu*](https://docs.itdevwu.com/).
 
 Licensed under [*Apache-2.0 license*](./LICENSE)
 
