@@ -8,3 +8,9 @@ Here are some tools that I use frequently:
 - [Fish shell](./fishshell/): Intelligent shell.
 - [Starship](./starship/): Beautiful prompt engine for multiple shells.
 
+## Copyright
+
+Copyright (c) 2023 itdevwu.
+
+Licensed under [*Apache-2.0 license*](./LICENSE)
+
