@@ -7,6 +7,7 @@ Here are some tools that I use frequently:
 
 - [Fish shell](./fishshell/): Intelligent shell.
 - [Starship](./starship/): Beautiful prompt engine for multiple shells.
+- [rough-notation](./rough-notation/): JS library that decorates text with handwriting style shapes.
 
 ## Copyright
 
